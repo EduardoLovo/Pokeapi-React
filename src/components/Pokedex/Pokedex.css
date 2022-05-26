@@ -10,3 +10,8 @@
     gap: 10px;
     grid-template-columns: repeat(3, 1fr);
 }
+
+h1 {
+    color: white;
+    padding: 1rem;
+}

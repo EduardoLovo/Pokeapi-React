@@ -7,8 +7,11 @@ nav div {
     align-items: center;
 }
 
-
-
 .navbar-img {
     width: 160px;
+}
+
+h2 {
+    color: white;
+    text-align: center;
 }
